@@ -1,0 +1,17 @@
+{
+  "title": "<Chainsaw-Man-Fan-Remake>",
+  "description": "<I remade the first chapter of Chainsaw Man!>",
+  "artist": "<japllord>",
+  "author": "<japllord>",
+  "cover": "<https://imgur.com/gJH5QXf.jpeg>",
+  "chapters": {
+    "<1>": {
+      "title": "<Dog-and-Chainsaw>",
+      "volume": "<1>",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/<DXIbJgr>/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
